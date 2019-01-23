@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/polnotsvet.kiev.ua/webstat"
+AuthUserFile /var/www/chpolno3556/data/etc/23857423.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

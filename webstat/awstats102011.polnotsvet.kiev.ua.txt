@@ -1,0 +1,346 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201110 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.polnotsvet.kiev.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2677                
+POS_VISITOR 8274                
+POS_DAY 9677                
+POS_DOMAIN 3253                
+POS_LOGIN 3485                
+POS_ROBOT 3640                
+POS_WORMS 3963                
+POS_EMAILSENDER 4094                
+POS_EMAILRECEIVER 4237                
+POS_SESSION 9763                
+POS_SIDER 9952                
+POS_FILETYPES 4372                
+POS_DOWNLOADS 4536                
+POS_OS 4584                
+POS_BROWSER 4692                
+POS_SCREENSIZE 4920                
+POS_UNKNOWNREFERER 4994                
+POS_UNKNOWNREFERERBROWSER 5081                
+POS_ORIGIN 5163                
+POS_SEREFERRALS 5302                
+POS_PAGEREFS 5480                
+POS_SEARCHWORDS 5706                
+POS_KEYWORDS 6770                
+POS_MISC 2341                
+POS_ERRORS 7698                
+POS_CLUSTER 3341                
+POS_SIDER_404 7797                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111101000956 1 0 36526291628
+FirstTime 20111031152342
+LastTime 20111031224226
+LastUpdate 20111101010101 1 0 0 0 0
+TotalVisits 22                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 17 287 8645759 1 16 33249
+16 99 405 18403362 5 11 120542
+17 3 82 2979730 0 14 63259
+18 9 139 3805974 0 4 239
+19 5 166 5613908 1 5 12038
+20 1 51 2087256 2 6 43408
+21 8 72 2955995 1 5 13457
+22 3 98 3105217 0 5 0
+23 0 1 63259 0 2 208
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 145 1301 47660460
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+yandex 13 63259 20111031233241 0
+googlebot 3 57247 20111031212606 0
+aport 2 65650 20111031162505 0
+[\s_+:,\.\;\/\\-]bot 1 32825 20111031160559 0
+bot[\s_+:,\.\;\/\\-] 1 32833 20111031154552 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 27 196029 0 0
+html 140 2931309 0 0
+jpg 1039 44180742 0 0
+Unknown 5 178510 0 0
+gif 90 173870 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+linuxandroid 104
+winxp 246
+winlong 311
+win2003 1
+win2000 29
+win7 610
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie8.0 38
+msie6.0 36
+firefox6.0.2 72
+firefox6.0.1 1
+msie7.0 2
+android 104
+msie9.0 231
+firefox7.0.1 392
+chrome14.0.835.187 1
+opera9.80 372
+chrome15.0.874.106 4
+firefox3.6.23 48
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 22 58
+From1 0 0
+From2 13 28
+From3 0 7
+From4 110 1208
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 7 7
+search 1 1
+yandex 5 20
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://images.yandex.kz/yandsearch 0 1
+http://images.yandex.ua/yandsearch 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 10
+%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d1%8c+%d0%bd%d0%b0+%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%b5 2
+%ef%e5%f7%e0%f2%fc+%ed%e0+%f1%f2%e5%ea%eb%e5 2
+%f4%ee%f2%ee%ee%e1%ee%e8+%e2+%ea%e8%e5%e2%e5 2
+%f4%ee%f2%ee+%ee%e1%ee%e8+%ed%e0+%e7%e0%ea%e0%e7+%ea%e8%e5%e2 1
+%d0%bf%d0%bb%d0%be%d1%82%d1%82%d0%b5%d1%80%d1%8b+%d1%81+%d1%83%d1%84+%d0%be%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%d0%bc+%d0%ba%d1%83%d0%bf%d0%b8%d1%82%d1%8c 1
+%ea%e8%e5%e2+%e4%ee%f1%f2%ee%ef%f0%e8%ec%e5%f7%e0%f2%e5%eb%fc%ed%ee 1
+gtxfnm+yf+gkfcnbrt 1
+%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d1%8c+%d0%bd%d0%b0+%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%be+%d0%bd%d0%b0+%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%bd%d0%be%d0%b9 1
+%d0%b1%d1%83%d0%bc%d0%b0%d0%b3%d0%b0+backlight 1
+%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be+%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6%d0%bd%d1%8b%d0%b5+%d1%80%d0%b0%d0%b1%d0%be%d1%82+%d0%ba%d0%b8%d0%b5%d0%b2 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 30
+%d0%bd%d0%b0 4
+%ed%e0 3
+%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d1%8c 3
+%ea%e8%e5%e2 2
+%ef%e5%f7%e0%f2%fc 2
+%ea%e8%e5%e2%e5 2
+%e2 2
+%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%b5 2
+%f1%f2%e5%ea%eb%e5 2
+%f4%ee%f2%ee%ee%e1%ee%e8 2
+%f4%ee%f2%ee 1
+%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%be 1
+gkfcnbrt 1
+gtxfnm 1
+%d0%ba%d0%b8%d0%b5%d0%b2 1
+yf 1
+%d1%83%d1%84 1
+%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6%d0%bd%d1%8b%d0%b5 1
+%d0%be%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5%d0%bc 1
+%e7%e0%ea%e0%e7 1
+%e4%ee%f1%f2%ee%ef%f0%e8%ec%e5%f7%e0%f2%e5%eb%fc%ed%ee 1
+%d1%81 1
+%d0%b1%d1%83%d0%bc%d0%b0%d0%b3%d0%b0 1
+%d1%80%d0%b0%d0%b1%d0%be%d1%82 1
+backlight 1
+%d0%ba%d1%83%d0%bf%d0%b8%d1%82%d1%8c 1
+%ee%e1%ee%e8 1
+%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be 1
+%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%bd%d0%be%d0%b9 1
+%d0%bf%d0%bb%d0%be%d1%82%d1%82%d0%b5%d1%80%d1%8b 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 1186
+404 14 33400
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/ 3 -
+/robots.txt 9 -
+/templates/ja_nagya/images/mainnav-hover.gif 1 http://polnotsvet.kiev.ua/
+/templates/ja_nagya/css/colors/default.css 1 http://polnotsvet.kiev.ua/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+91.207.105.4 95 472 18618083 20111031165353
+178.136.0.178 12 147 4429674 20111031181430
+93.74.12.224 8 71 2912647 20111031213220
+46.47.201.82 6 46 1756605 20111031153854
+188.134.32.23 5 164 5507301 20111031195735
+93.72.11.214 3 74 3464498 20111031181645
+93.180.235.114 2 30 1022058 20111031170342
+193.93.185.93 2 31 1019476 20111031154021
+89.178.246.150 2 39 1498928 20111031224226
+93.75.126.88 1 48 1897479 20111031200810
+86.111.78.113 1 37 1462199 20111031171742
+95.25.119.171 1 29 736576 20111031224224
+93.74.172.149 1 29 736576 20111031223813
+95.54.236.4 0 1 63259 
+46.73.48.156 1 2 19247 20111031162634
+89.20.110.125 0 1 63259 
+213.154.192.84 0 1 63259 
+2.60.195.255 0 1 63259 
+95.129.166.14 0 1 63259 
+150.70.172.204 1 1 24521 20111031180405
+93.80.122.250 0 1 63259 
+94.178.40.150 0 1 63259 
+212.34.110.51 0 1 63259 
+93.80.80.222 1 2 91209 20111031162631
+188.134.32.147 0 1 43348 
+194.50.9.84 0 1 63259 
+178.215.116.240 0 1 63259 
+46.150.79.194 0 1 63259 
+217.147.161.77 1 19 101201 20111031180208
+109.191.152.155 0 1 43348 
+94.41.25.173 0 1 63259 
+95.133.98.25 1 37 1099197 20111031170711
+91.76.38.150 0 1 43348 
+77.247.27.92 0 1 43348 
+77.234.5.199 0 1 43348 
+89.252.29.116 0 1 43348 
+2.95.210.67 0 1 63259 
+46.226.241.82 0 1 43348 
+95.56.75.93 0 1 63259 
+109.198.216.104 0 1 63259 
+77.92.233.198 1 1 10664 20111031181732
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20111031 145 1301 47660460 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 14
+30s-2mn 3
+2mn-5mn 2
+15mn-30mn 1
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 140 2931309 21 21
+/index.php/uvproduction 5 178510 1 1
+END_SIDER
