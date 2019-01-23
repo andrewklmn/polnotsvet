@@ -1,0 +1,3 @@
+# polnotsvet
+
+cmsimple sample project
